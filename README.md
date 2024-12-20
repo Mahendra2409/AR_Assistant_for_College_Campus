@@ -3,7 +3,7 @@
 AR-based navigation system where users scan a QR code to access a virtual assistant that guides them to
 campus destinations.
 
-![Metro Crowd Indicator](1.png)
+![Metro Crowd Indicator](Canteen-Guid.png)
 
 ---
 
@@ -77,6 +77,12 @@ This AR-based navigation system allows users to:
 [//]: # ()
 [//]: # (---)
 
+
+##  - **3D Model of College Made on Revit Architecture Software**  
+
+![Metro Crowd Indicator](7.png)
+![Metro Crowd Indicator](3.png)
+
 ## 📄 **License**  
 This project is licensed under the APACHE2.O  License. See the [LICENSE](LICENSE) file for details.
 
@@ -84,8 +90,4 @@ This project is licensed under the APACHE2.O  License. See the [LICENSE](LICENSE
 
 
 
-
-
-![Metro Crowd Indicator](7.png)
-![Metro Crowd Indicator](3.png)
  
