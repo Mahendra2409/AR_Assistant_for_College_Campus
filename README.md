@@ -27,7 +27,7 @@ This AR-based navigation system allows users to:
 ## - **Tech Stack**  
 - **Augmented Reality:** ARway  
 - **3D Modeling:** Autodesk Revit, Blender  
-- **Development Tools:** Unreal Engine / Unity *(optional if used)*  
+- **Development Tools:** ARway, Google ARcore 
 - **Other Tools:** QR Code Generator  
 
 ---
